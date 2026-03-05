@@ -11,15 +11,16 @@ import Border from '../Border'
 const Hero6 = () => {
   return (
     <>
-    <div className='h-screen relativemt-20 px-20 flex'>
+    <div className='py-10'>
+    <div className='h-screen relative mt-20 px-20 flex '>
 
-      <div className='flex h-5 justify-end text-end absolute right-20 mt-15'>
+      <div className='flex h-5 justify-end text-end absolute right-20 mt-15 '>
 <img src={backk} alt="" className='w-5 h-5' />
 <img src={agy} alt="" className='w-5 h-5' />
         </div>
       
 
-<div className='flex flex-col w-[20%] mr-20 ml-30 justify-center'>
+<div className='flex flex-col w-[20%] mr-20 ml-30 justify-center '>
  <div className='mb-4 flex rounded-full justify-start uppercase'>
         <Subtitle text='Testimonals'/>
 </div>
@@ -42,7 +43,7 @@ Senior Conversion Optimizer</div>
 </div>
 
 
-</div>
+</div></div>
 
 <Border/>
          <Hero7/>       

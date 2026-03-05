@@ -9,7 +9,7 @@ const Footer = () => {
         <div className='w-full bg-[#232323]'>
   <div className=' grid md:grid-cols-4 sm:grid-cols-1 h-auto  p-10 pe-40 ps-40'>
        
-        <div className=' flex justify-center items-start pt-20 '><img src={end} alt="" />  </div>
+        <div className=' flex justify-center items-start pt-20 relative '><h1 className='absolute top-30 text-[12px] text-white '>Made with lots of ❤️ in San Francisco</h1> <img src={end} alt="" />  </div>
 
         <div className=' flex flex-col p-10 gap-4 text-center'>
             <h3 className='text-white font-bold text-lg'>

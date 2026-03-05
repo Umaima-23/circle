@@ -9,7 +9,7 @@ const Hero7 = () => {
         <>
         
       
-        <div className='min-h-auto pb-30 flex items-center px-10 md:px-20 m-auto '>
+        <div className='min-h-auto pb-30 flex items-center px-10 md:px-20 m-auto py-20'>
             <div className='grid md:grid-cols-2 sm:grid-cols-1 gap-10 items-center w-full ps-20'>
                 <div className='pe-30   '>
                     <div className='text-2xl pe-30 mb-5'>Looking for a <span className='font-[700]'>solution</span>  for your business?</div>
