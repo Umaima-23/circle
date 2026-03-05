@@ -6,7 +6,7 @@ const Button = ({text}) => {
     return (
         <div>
             <div className='flex justify-center mt-5'>
-                <button className='bg-[#0CBBC7] px-5 py-3 cursor-pointer text-white m-auto flex font-medium tracking-wide'>
+                <button className='bg-[#0CBBC7] px-5 py-3 cursor-pointer text-white m-auto flex font-semibold'>
                     {text}<Arrow />
                 </button>
 
