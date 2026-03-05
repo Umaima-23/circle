@@ -7,7 +7,7 @@ const Footer = () => {
     <>
     <div>
         <div className='w-full bg-[#232323]'>
-  <div className=' grid md:grid-cols-4 sm:grid-cols-1 h-auto py-20 p-10 pe-40 ps-40'>
+  <div className=' grid md:grid-cols-4 sm:grid-cols-1 h-auto  p-10 pe-40 ps-40'>
        
         <div className=' flex justify-center items-start pt-20 '><img src={end} alt="" />  </div>
 
@@ -49,7 +49,7 @@ const Footer = () => {
             </ul>
         </div>
         </div>
-        <div className='border m-auto  w-[80%] border-gray-700'>
+        <div className='border m-auto  w-[80%] border-[#ffffff1b]'>
           
         </div>
           <div className='flex text-[#7C7C7C] text-sm p-10 justify-between'>

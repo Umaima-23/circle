@@ -7,6 +7,7 @@ import h54 from '../../assets/h54.png'
 import h5main from '../../assets/h5main.png'
 import Button from '../Button'
 import Hero6 from './Hero6'
+import Border from '../Border'
 
 
 const Hero5 = () => {
@@ -43,6 +44,7 @@ const Hero5 = () => {
                 </div>
                 <div className='w-1/2 flex justify-center'><img src={h5main} alt="" className='w-2/3' /></div>
             </div>
+            
    <Hero6/>
     </div>
   )

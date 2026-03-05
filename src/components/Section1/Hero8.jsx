@@ -11,7 +11,7 @@ import Footer from './Footer';
 const Hero8 = () => {
     return (
         <div className='h-screen'>
-            <div className='flex justify-center'>
+            <div className='flex justify-center pt-10'>
                 <Subtitle text='resources' />
             </div>
             <div className='text-center text-3xl mt-3'><span className='font-[700]'>Stay</span> in the <span className='font-[700]'></span>know</div>

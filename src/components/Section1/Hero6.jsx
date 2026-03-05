@@ -5,6 +5,7 @@ import paypal from '../../assets/paypal.png'
 import agy from '../../assets/agy.png'
 import backk from '../../assets/backk.png'
 import Hero7 from './Hero7'
+import Border from '../Border'
 
 
 const Hero6 = () => {
@@ -43,7 +44,7 @@ Senior Conversion Optimizer</div>
 
 </div>
 
-
+<Border/>
          <Hero7/>       
     
     </>
