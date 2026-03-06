@@ -14,7 +14,7 @@ const Hero6 = () => {
     <div className='py-10'>
     <div className='h-screen relative mt-20 px-20 flex '>
 
-      <div className='flex h-5 justify-end text-end absolute right-20 mt-15 '>
+      <div className='hidden md:flex h-5 justify-end text-end absolute right-20 mt-15 '>
 <img src={backk} alt="" className='w-5 h-5' />
 <img src={agy} alt="" className='w-5 h-5' />
         </div>
